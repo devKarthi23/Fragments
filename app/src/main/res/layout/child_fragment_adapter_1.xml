@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="8dp"
+        android:padding="3dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:gravity="center">
+            <TextView
+                android:id="@+id/id"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ID"
+                android:padding="5dp"
+                android:textSize="13sp"
+                android:gravity="center"
+                />
+            <TextView
+                android:id="@+id/date1"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Raised On"
+                android:padding="5dp"
+                android:textSize="13sp"
+                android:gravity="center" />
+            <TextView
+                android:id="@+id/date"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Date"
+                android:padding="5dp"
+                android:gravity="center"
+                android:textSize="13sp" />
+            <TextView
+                android:id="@+id/person"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Raised By"
+                android:padding="5dp"
+                android:gravity="center"
+                android:textSize="13sp" />
+            <TextView
+                android:id="@+id/status"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Status"
+                android:padding="5dp"
+                android:gravity="center"
+                android:textSize="13sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

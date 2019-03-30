@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <!--<color name="colorPrimary">#fff</color>-->
+    <!--<color name="colorPrimaryDark">#fff</color>-->
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="HeadingColor">#41C65F</color>
+    <color name="ActivityTab">#2D793F</color>
+    <color name="Button">#38A050</color>
+
+    <color name="lightgray">#ededed</color>
+    <color name="appred">#ec533f</color>
+    <color name="appyellow">#bcbc4a</color>
+
+
+    <color name="appred1">#d06363</color>
+    <color name="appred2">#f35e5f</color>
+
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorShop">#9a1e1b</color>
+    <color name="colorShop2">#071f53</color>
+    <color name="colorNavText">#ffffff</color>
+    <color name="colorSettings">#40000000</color>
+    <color name="colorClick">#abcdef</color>
+</resources>
